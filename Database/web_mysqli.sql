@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
---
+-- User : dominh130802@gmail.com
 -- Máy chủ: 127.0.0.1
 -- Thời gian đã tạo: Th6 10, 2024 lúc 07:19 AM
 -- Phiên bản máy phục vụ: 10.4.32-MariaDB
